@@ -21,7 +21,7 @@ A simple Python Flask API that scrapes and returns Stoic philosophy quotes from 
 ### ✅ Endpoint
 
 ```http
-GET /quote
+GET https://stoic-api.onrender.com/quote
 ````
 
 ### 🔄 Example Response
